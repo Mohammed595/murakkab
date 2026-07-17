@@ -1,5 +1,7 @@
 # مُركب (Murakkab) — تعلّم الاستثمار بالتجربة
 
+**🔗 Try it live → [murakkab.replit.app](https://murakkab.replit.app/)**
+
 > An interactive Arabic-language investment simulator built with React. Live historical Saudi market scenarios, a DCA bot named Salem, and a personalised AI coach — all in a mobile-first phone frame.
 
 ---
